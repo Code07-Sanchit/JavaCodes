@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author KINSHU
+ *
+ */
+module BasicJava {
+}
